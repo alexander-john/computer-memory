@@ -1,4 +1,10 @@
 # computer-memory
 I aim to enhance my skills on computer memory by creating a living repository that will explain computer in the best way I possibly can. : )
-![git-memory](https://github.com/alexander-john/computer-memory/assets/13820251/5f296bc9-9fa6-4255-89b9-9fbe3ff8a8ba#gh-dark-mode-only)
-![git-mem-light](https://github.com/alexander-john/computer-memory/assets/13820251/94afe4c6-54ae-48ba-9136-4a7d332bdb07#gh-light-mode-only)
+
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexander-john/computer-memory/assets/13820251/5f296bc9-9fa6-4255-89b9-9fbe3ff8a8ba">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexander-john/computer-memory/assets/13820251/94afe4c6-54ae-48ba-9136-4a7d332bdb07">
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    </picture>
+</p>
